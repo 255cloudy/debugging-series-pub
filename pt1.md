@@ -1,4 +1,8 @@
-
+---
+title: "Mastering Node.js & TypeScript Debugging (Part 1): moving beond console.log()"
+published: false
+tags: node, typescript, debugging, webdev
+---
 # Introduction 
 
 Finding and fixing software errors is as fundamental to programming as writing the code itself. Ever since early computer pioneers manually traced memory dumps, debugging tools have evolved to give developers unprecedented control over execution. In modern backend development, particularly when working with  Node.js and TypeScript, debuggers transform how we diagnose errors, replacing speculative console logs with real-time inspection, interactive execution control, and deep visibility into runtime state.
